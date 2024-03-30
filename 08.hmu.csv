@@ -16,7 +16,7 @@ r,,CurrentCompressorUtil,,,,,25,,,D1B,,%,current compressor utilization in perce
 r,,YieldHcMonth,,,,,0e,,,D1B,,,,,,,,,,,,,,,,,,,,,
 r,,CopHcMonth,,,,,0f,,,D1B,,,,,,,,,,,,,,,,,,,,,
 r,,YieldHc,,,,,10,,,D1B,,,,,,,,,,,,,,,,,,,,,
-r,,CopHc,,,,,11,,,D1B,,,,,,,,,,,,,,,,,,,,,
+r,,CopHc,,,,,11,,,IGN:3,10,,,,,,,,,,,,,,,,,,,,
 r,,YieldHwcMonth,,,,,12,,,D1B,,,,,,,,,,,,,,,,,,,,,
 r,,CopHwcMonth,,,,,13,,,D1B,,,,,,,,,,,,,,,,,,,,,
 r,,YieldHwc,,,,,16,,,D1B,,,,,,,,,,,,,,,,,,,,,
